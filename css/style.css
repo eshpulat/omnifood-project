@@ -20,9 +20,26 @@ body {
     font-weight: 400;
     color: #555;
 }
+/* HEADER SECTION */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #fdf2e9;
+    height: 9.6rem;
+    padding: 0 4.8rem;
+}
+.logo {
+    height: 2.2rem;
+}
+
+/* HERO SECTION */
 .hero {
     max-width: 130rem;
     margin: 0 auto;
+    padding: 0 3.2rem;
     display: grid;
     gap: 9.6rem;
     grid-template-columns: 1fr 1fr;
@@ -31,7 +48,7 @@ body {
 
 .section-hero {
     background-color: #fdf2e9;
-    padding: 9.6rem 0;
+    padding: 4.8rem 0 9.6rem 0;
 }
 
 .heading-primary {
