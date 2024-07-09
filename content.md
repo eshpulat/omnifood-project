@@ -40,7 +40,7 @@ Receive meals at convenient time: Best chefs in town will cook your selected mea
 Vegetarian
 Vegan
 Pescatarian
-Gluten-free
+
 Lactose-free
 Keto
 Paleo
