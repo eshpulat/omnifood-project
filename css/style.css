@@ -65,6 +65,9 @@ body {
 .grid--4-cols {
     grid-template-columns: repeat(4, 1fr);
 }
+.grid--5-cols {
+    grid-template-columns: repeat(5, 1fr);
+}
 
 .grid--center-v {
     align-items: center;
@@ -692,4 +695,20 @@ strong {
     outline-offset: 8px; */
 
     box-shadow: 0 0 0 0.8rem rgba(253, 242, 233, 0.5);
+}
+
+/* ADDRESS SECTION */
+
+.footer {
+    padding: 9.6rem 0;
+}
+
+.footer-heading {
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-bottom: 3.2rem;
+}
+
+.footer-nav {
+    list-style: none;
 }
